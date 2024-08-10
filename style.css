@@ -37,7 +37,7 @@ html {
     box-sizing: border-box;
 }
 
-.column {
+.about-column {
     float: left;
     width: 100%;
     margin-bottom: 16px;
@@ -50,10 +50,20 @@ html {
     padding: 0 25px;
 }
 
-
 .perkenalan {
     padding: 50px;
     text-align: center;
     background-color: gray;
     color: white;
+}
+
+.projects {
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+.project-container {
+    padding: 25px;
 }
